@@ -1,0 +1,5 @@
+export { default as grassImg } from './grass.jfif'
+export { default as glassImg } from './glass.jfif'
+export { default as dirtImg } from './dirt.jfif'
+export { default as logImg } from './log.jfif'
+export { default as woodImg } from './wood.jfif'
